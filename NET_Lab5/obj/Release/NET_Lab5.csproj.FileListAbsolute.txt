@@ -1,0 +1,16 @@
+C:\Users\Adrian\source\repos\NET_Lab5\NET_Lab5\bin\Release\NET_Lab5.exe.config
+C:\Users\Adrian\source\repos\NET_Lab5\NET_Lab5\bin\Release\NET_Lab5.exe
+C:\Users\Adrian\source\repos\NET_Lab5\NET_Lab5\bin\Release\NET_Lab5.pdb
+C:\Users\Adrian\source\repos\NET_Lab5\NET_Lab5\obj\Release\NET_Lab5.csprojAssemblyReference.cache
+C:\Users\Adrian\source\repos\NET_Lab5\NET_Lab5\obj\Release\Views\MainWindow.g.cs
+C:\Users\Adrian\source\repos\NET_Lab5\NET_Lab5\obj\Release\App.g.cs
+C:\Users\Adrian\source\repos\NET_Lab5\NET_Lab5\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Adrian\source\repos\NET_Lab5\NET_Lab5\obj\Release\NET_Lab5_MarkupCompile.cache
+C:\Users\Adrian\source\repos\NET_Lab5\NET_Lab5\obj\Release\NET_Lab5_MarkupCompile.lref
+C:\Users\Adrian\source\repos\NET_Lab5\NET_Lab5\obj\Release\Views\MainWindow.baml
+C:\Users\Adrian\source\repos\NET_Lab5\NET_Lab5\obj\Release\NET_Lab5.g.resources
+C:\Users\Adrian\source\repos\NET_Lab5\NET_Lab5\obj\Release\NET_Lab5.Properties.Resources.resources
+C:\Users\Adrian\source\repos\NET_Lab5\NET_Lab5\obj\Release\NET_Lab5.csproj.GenerateResource.cache
+C:\Users\Adrian\source\repos\NET_Lab5\NET_Lab5\obj\Release\NET_Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\NET_Lab5\NET_Lab5\obj\Release\NET_Lab5.exe
+C:\Users\Adrian\source\repos\NET_Lab5\NET_Lab5\obj\Release\NET_Lab5.pdb
